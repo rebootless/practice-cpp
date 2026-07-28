@@ -1,4 +1,4 @@
-# practice-CPP
+# Practice-CPP
 
 A collection of C++ programming exercises and solutions for learning and practicing core language features.
 
