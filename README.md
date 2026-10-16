@@ -11,6 +11,6 @@ Each task is organized in its own directory with:
 ## Build and Run
 
 ```bash
-# Build a specific task (change only TASK)
-TASK=01; cd task-$TASK && mkdir -p build && cd build && cmake .. && cmake --build . && ./task-$TASK
+mkdir -p build && cd build && cmake .. && cmake --build .
+./<solution>
 ```
